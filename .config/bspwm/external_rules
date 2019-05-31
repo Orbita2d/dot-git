@@ -1,0 +1,32 @@
+#!/bin/bash
+
+wid=$1
+class=$(echo ${2} | xargs)
+instance=$(echo ${3} | xargs)
+title=$(xtitle "$wid")
+
+logfile=$HOME/.config/bspwm/external_rules_logfile
+
+printf "Wid: $wid Class: $class Instance: $instance Title: $title \n" >> $logfile
+
+case "$class" in
+  (Firefox) echo border=false;;
+  (Zathura) echo state=tiled;;
+  (Carla2) echo desktop="Audio-A";;
+  (Pavucontrol) echo desktop='Audio-B' border=false state=pseudo_tiled;;
+  (Steam) echo desktop='Games'  follow=false border=false;;
+  (discord) echo desktop='Audio-C';;
+  ('MATLAB'*) 
+    printf "^ Matlab, checking title\n" >> $logfile
+    case "$title" in
+      'MATLAB R'*) echo state=tiled;;
+      *) echo state=floating;;
+    esac;;
+  ('')
+    printf "^ Checking Blank Class...\n" >> $logfile
+    case $(ps -p "$(xdo pid $wid)" -o comm= 2>/dev/null) in
+			(spotify) 
+        printf "^ Spotify\n" >> $logfile
+        echo desktop='Music'\ follow=true\ border=false;;
+  esac;;
+esac;

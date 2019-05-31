@@ -1,0 +1,37 @@
+#!/bin/bash
+
+resourcesDirectory=$HOME/.config/Xresources
+
+if [ -d "$resourcesDirectory" ]; then
+ # xrdb -merge $resourcesDirectory/pancake-night.xrdb
+ xrdb -merge $resourcesDirectory/flamboyant.xrdb
+ xrdb -merge $resourcesDirectory/urxvt.xrdb
+fi
+
+$HOME/.screenlayout/defaultsetup.sh &
+
+if [ -d "$HOME/Pictures/Backgrounds" ]; then
+ feh --bg-center $(find ~/Pictures/Backgrounds/shuffle -type f | shuf -n 1)
+fi
+
+xsetroot -cursor_name "left_ptr"
+
+# Fix matlab
+export _JAVA_AWT_WM_NONREPARENTING=1
+export PATH=$PATH:$HOME/bin
+
+$HOME/bin/loadpajack.sh &
+xiccd &
+sxhkd &
+ssh-agent &
+compton &
+light-locker &
+polybar left-top &
+polybar right-top &
+sleep 5 && carla $HOME/Audio/Carla/basicSpeakers.carxp &
+sleep 6 && pasystray &
+sleep 6 && pavucontrol &
+sleep 6 && spotify &
+sleep 6 && steam &
+sleep 6 && discord &
+

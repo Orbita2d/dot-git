@@ -1,0 +1,35 @@
+sw_volume: 76
+audio_device_state:1:Visualiser Feed
+audio_device_state:1:mpd pulse-audio-output
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Ben Marwood/Outside There's a Curse/01 I Will Breath You In.mp3
+1:Ben Marwood/Outside There's a Curse/02 Singalong.mp3
+2:Ben Marwood/Outside There's a Curse/03 Toil.mp3
+3:Ben Marwood/Outside There's a Curse/04 A Shower of Bastards.mp3
+4:Ben Marwood/Outside There's a Curse/05 They Will Float Your Body Out.mp3
+5:Ben Marwood/Outside There's a Curse/06 It's Harder Now to Break Your.mp3
+6:Ben Marwood/Outside There's a Curse/07 Oh My Days.mp3
+7:Ben Marwood/Outside There's a Curse/08 JJ Abrams.mp3
+8:Ben Marwood/Outside There's a Curse/09 Tell Avril Lavigne I Never Wan.mp3
+9:Ben Marwood/Outside There's a Curse/10 The District Sleeps Alone Toni.mp3
+10:Ben Marwood/Back Down/01 For the Skin and the Bone.mp3
+11:Ben Marwood/Back Down/02 These are the Days When You Ca.mp3
+12:Ben Marwood/Back Down/03 The Soundtrack to the Trailer.mp3
+13:Ben Marwood/Back Down/04 Under Lock and Key.mp3
+14:Ben Marwood/Back Down/05 This Industry Eats its Young.mp3
+15:Ben Marwood/Back Down/06 I Promise You That It Will Be.mp3
+16:Ben Marwood/Back Down/07 An Escape from Yeehaw Junction.mp3
+17:Ben Marwood/Back Down/08 We Are No Longer Twenty-Five.mp3
+18:Ben Marwood/Back Down/09 Demons.mp3
+19:Ben Marwood/Back Down/10 Don't Call it a Comeback.mp3
+20:Ben Marwood/Back Down/11 Murder She Wrote.mp3
+21:Ben Marwood/Back Down/12 Lake Wales.mp3
+playlist_end

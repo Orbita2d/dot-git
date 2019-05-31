@@ -1,0 +1,13 @@
+#! /bin/bash
+alias reloadalias='source ~/.config/.aliases'
+alias ls='exa'
+alias vi='nvim'
+alias vim='nvim'
+alias fetch='clear; neofetch --config "$HOME/.config/neofetch/full.conf"'
+alias mfetch='clear; neofetch --config "$HOME/.config/neofetch/mini.conf" --off --colors fg fg fg fg fg fg'
+alias todo='clear;printf "To do:  \n"; cat $HOME/.todo ;'
+alias play-jungle-morning='bin/play-jungle-morning'
+alias lock='i3lock -i $(find ~/Pictures/Backgrounds/carWindowRainy.png -type f| shuf -n 1)'
+alias clock='tty-clock -c -C 7'
+alias paste='curl -F c=@- https://ptpb.pw'
+alias maimshot='maim -s ~/Desktop/capture$(date --iso-8601=seconds)'

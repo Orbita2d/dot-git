@@ -1,0 +1,3 @@
+rofi.teminal:		urxvt
+rofi.sidebar-mode:	false
+rofi.theme:		pancake-night.rasi

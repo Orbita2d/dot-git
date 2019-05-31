@@ -1,0 +1,59 @@
+! Colourscheme Pancake Night
+! Scheme: Kylie MacFarquharson
+
+#define greyscale0 #0A0A0A 
+#define greyscale1 #121212
+#define greyscale2 #1C1C1C
+#define greyscale3 #4D4D4D
+#define greyscale4 #55555C
+#define greyscale5 #C5C8C6
+#define greyscale6 #DADEE0
+#define greyscale7 #FFFFFF
+#define lightred #A54252
+#define darkred #933b4a
+#define lightorange #DE761b
+#define darkorange #de7d28
+#define lightyellow #F0C674
+#define lightgreen #B5BD68
+#define darkgreen #909753
+#define lightteal #8ABEB7
+#define darkteal #6E9892
+#define lightblue #5F819D
+#define darkblue #425A6D
+#define lightpurple #B294BB
+#define darkpurple #886294
+#define brown #A86536
+
+*foreground:   	greyscale5
+*background:   	greyscale0
+*cursorColor:  	greyscale5
+
+*color0:	greyscale0
+*color7:	greyscale5
+*color8:	greyscale3
+*color15:	greyscale7
+
+*color16:	greyscale1
+
+! Red
+*color9:	lightred
+*color1:	darkred
+! Green
+*color10:	lightgreen
+*color2:	darkgreen
+! Yellow
+*color11:	lightorange
+*color3:	darkorange
+! Blue
+*color12:	lightblue
+*color4:	darkblue
+! Purple
+*color13:	lightpurple
+*color5:	darkpurple
+! Teal/Aqua
+*color14:	lightteal
+*color6:	darkteal
+
+URxvt*scrollColor:                    greyscale5
+URxvt*highlightColor:                 greyscale2
+URxvt*highlightTextColor:             greyscale4

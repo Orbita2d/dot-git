@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/kylie/dot-git/machines/kylieDesktopSecure/.config/sxhkd'
+let g:netrw_dirhist_2='/home/kylie/dot-git/machines/kylieDesktopSecure/.config'
+let g:netrw_dirhist_3='/home/kylie/dot-git/machines/kylieDesktopSecure/.config/bspwm'
+let g:netrw_dirhist_4='/home/kylie'

@@ -1,0 +1,62 @@
+! Colourscheme Flamboyant
+! Scheme: Kylie MacFarquharson
+
+#define greyscale0 #1d1f21
+#define greyscale1 #c5c8c6
+#define greyscale2 #282a2e
+#define greyscale3 #373b41
+#define greyscale4 #707880
+#define greyscale5 #c5c8c6
+
+#define lightred #ff1800
+#define darkred #a61000
+
+#define lightorange #ffc600
+#define darkorange #eb6e00
+
+#define lightgreen #e3f060
+#define darkgreen #a9b722
+
+#define lightteal #43dbc6
+#define darkteal #009380
+
+#define lightblue #00a0ff
+#define darkblue #0068a6
+
+#define lightpurple #ff00d7
+#define darkpurple #d3078d
+
+*foreground:   	greyscale1
+*background:   	greyscale0
+*cursorColor:  	greyscale1
+
+*color0:	greyscale0
+*color8:	greyscale2
+
+*color7:	greyscale3
+*color15:	greyscale1
+
+*color16:	greyscale0
+
+! Red
+*color9:	lightred
+*color1:	darkred
+! Green
+*color10:	lightgreen
+*color2:	darkgreen
+! Yellow
+*color11:	lightorange
+*color3:	darkorange
+! Blue
+*color12:	lightblue
+*color4:	darkblue
+! Purple
+*color13:	lightpurple
+*color5:	darkpurple
+! Teal/Aqua
+*color14:	lightteal
+*color6:	darkteal
+
+URxvt*scrollColor:                    greyscale1
+URxvt*highlightColor:                 greyscale2
+URxvt*highlightTextColor:             greyscale5
