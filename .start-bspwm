@@ -20,7 +20,6 @@ xsetroot -cursor_name "left_ptr"
 export _JAVA_AWT_WM_NONREPARENTING=1
 export PATH=$PATH:$HOME/bin
 
-$HOME/bin/loadpajack.sh &
 xiccd &
 sxhkd &
 ssh-agent &
@@ -28,10 +27,10 @@ compton &
 light-locker &
 polybar left-top &
 polybar right-top &
-sleep 5 && carla $HOME/Audio/Carla/basicSpeakers.carxp &
-sleep 6 && pasystray &
-sleep 6 && pavucontrol &
-sleep 6 && spotify &
-sleep 6 && steam &
-sleep 6 && discord &
+pasystray &
+pavucontrol &
+nm-applet &
+spotify &
+steam &
+discord &
 

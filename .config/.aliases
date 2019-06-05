@@ -1,6 +1,7 @@
 #! /bin/bash
 alias reloadalias='source ~/.config/.aliases'
 alias ls='exa'
+alias ll='exa -l'
 alias vi='nvim'
 alias vim='nvim'
 alias fetch='clear; neofetch --config "$HOME/.config/neofetch/full.conf"'

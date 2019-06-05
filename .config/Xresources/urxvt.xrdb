@@ -20,7 +20,8 @@ URxvt.underlineURLs:    true
 URxvt.scrollBar:        false
 
 URxvt.font:		xft:NotoSansMono:pixelsize=12, \
-              -wuncon-siji-medium-r-normal-*-10-100-75-75-c-80-iso10646-1, \
+              xft:fontawesome:size=10, \
+              -wuncon-siji-medium-r-normal-*-10-100-75-75-c-80-iso10646-1
                     
 
 URxvt.boldFont :	 xft:NotoSansMono:bold:pixelsize=12, \

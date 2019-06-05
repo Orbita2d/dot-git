@@ -16,6 +16,7 @@ case "$class" in
   (Pavucontrol) echo desktop='Audio-B' border=false state=pseudo_tiled;;
   (Steam) echo desktop='Games'  follow=false border=false;;
   (discord) echo desktop='Audio-C';;
+  (GLava) echo border=false;;
   ('MATLAB'*) 
     printf "^ Matlab, checking title\n" >> $logfile
     case "$title" in

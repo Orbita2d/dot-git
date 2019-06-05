@@ -23,8 +23,8 @@
 #define lightblue #00a0ff
 #define darkblue #0068a6
 
-#define lightpurple #ff00d7
-#define darkpurple #d3078d
+#define lightpurple #cc7fa7
+#define darkpurple #cc4b8d
 
 *foreground:   	greyscale1
 *background:   	greyscale0
@@ -33,7 +33,7 @@
 *color0:	greyscale0
 *color8:	greyscale2
 
-*color7:	greyscale3
+*color7:	greyscale5
 *color15:	greyscale1
 
 *color16:	greyscale0

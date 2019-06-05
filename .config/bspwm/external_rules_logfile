@@ -5858,3 +5858,379 @@ Wid: 111149065 Class: URxvt Instance: urxvt Title: urxvt
 Wid: 111149063 Class: Transmission-gtk Instance: transmission-gtk Title: Transmission 
 Wid: 85983500 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
 Wid: 144703497 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 56624595 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 56624660 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 56634427 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 127926281 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 56636725 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 127926281 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 56636832 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 56636890 Class: Firefox Instance: Dialog Title: Launch Application 
+Wid: 56636901 Class: Firefox Instance: Dialog Title: Launch Application 
+Wid: 130023430 Class: vlc Instance: vlc Title: movie.mp4 - VLC media player 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023430 Class: vlc Instance: vlc Title: movie.mp4 - VLC media player 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 130023597 Class: vlc Instance: vlc Title: vlc 
+Wid: 20971527 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 37748742 Class: Carla2 Instance: carla Title: Carla - basicSpeakers.carxp 
+Wid: 27262977 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 39845889 Class: discord Instance: discord Title: Discord Updater 
+Wid: 50331657 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 52428802 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 39845894 Class: discord Instance: discord Title: Discord 
+Wid: 56623112 Class: Steam Instance: Steam Title: Steam 
+Wid: 56623137 Class: Steam Instance: Steam Title: Steam 
+Wid: 56623217 Class: Steam Instance: Steam Title: Steam - News (0tem0f 0talWid: 56623225 Class: Steam Instance: Steam Title: Friends List 
+Wid: 56623233 Class: Steam Instance: Steam Title: Friends List 
+Wid: 81788937 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 50331657 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 27262983 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 35651585 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 25165825 Class: discord Instance: discord Title: Discord Updater 
+Wid: 54525954 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 25165830 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 54525960 Class: Steam Instance: Steam Title: Steam 
+Wid: 54525985 Class: Steam Instance: Steam Title: Steam 
+Wid: 54526063 Class: Steam Instance: Steam Title: Steam - News (0tem0f 0talWid: 54526073 Class: Steam Instance: Steam Title: Friends List 
+Wid: 75497481 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 54526081 Class: Steam Instance: Steam Title: Friends List 
+Wid: 14680066 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 16777218 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 23068679 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 29360129 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 35651586 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 35651592 Class: Steam Instance: Steam Title: Steam 
+Wid: 41943046 Class: discord Instance: discord Title: Discord 
+Wid: 16777218 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 18874370 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 23068679 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 31457281 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 58720258 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 58720264 Class: Steam Instance: Steam Title: Steam 
+Wid: 58720289 Class: Steam Instance: Steam Title: Steam 
+Wid: 58720369 Class: Steam Instance: Steam Title: Steam - News (0tem0f 0talWid: 58720377 Class: Steam Instance: Steam Title: Friends List 
+Wid: 58720385 Class: Steam Instance: Steam Title: Friends List 
+Wid: 79691785 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 81788937 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 83886083 Class: Tor Browser Instance: TorLauncher Title: Establishing a Connection 
+Wid: 83886133 Class: Tor Browser Instance: Navigator Title: Tor Browser 
+Wid: 90177545 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 83886351 Class: Tor Browser Instance: Dialog Title: Tor Browser Security Settings 
+Wid: 96468995 Class: Pinentry-gtk-2 Instance: pinentry-gtk-2 Title: [3874]@kylieSecureDesktop 
+Wid: 83886096 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 18874370 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 20971522 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 25165831 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 33554433 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 62914562 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 60817416 Class: Steam Instance: Steam Title: Steam 
+Wid: 79691792 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 60817441 Class: Steam Instance: Steam Title: Steam 
+Wid: 60817521 Class: Steam Instance: Steam Title: Steam - News (0tem0f 0talWid: 79691844 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 18874370 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 23068674 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 25165831 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 33554433 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 60817410 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 60817416 Class: Steam Instance: Steam Title: Steam 
+Wid: 60817441 Class: Steam Instance: Steam Title: Steam 
+Wid: 85983248 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 85983265 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 85983313 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 85983613 Class: Firefox Instance: firefox Title: Save As 
+Wid: 85987070 Class: Firefox Instance: firefox Title: Save As 
+Wid: 20971522 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 23068674 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 27262983 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 33554433 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 60817410 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 60817416 Class: Steam Instance: Steam Title: Steam 
+Wid: 60817441 Class: Steam Instance: Steam Title: Steam 
+Wid: 85983248 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 117440514 Class: GLava Instance: GLava Title: GLava 
+Wid: 117440514 Class: GLava Instance: GLava Title: GLava 
+Wid: 117440514 Class: GLava Instance: GLava Title: GLava 
+Wid: 111149058 Class: GLava Instance: GLava Title: GLava 
+Wid: 117440521 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 98566146 Class: GLava Instance: GLava Title: GLava 
+Wid: 85983314 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 98566146 Class: GLava Instance: GLava Title: GLava 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 98566146 Class: GLava Instance: GLava Title: GLava 
+Wid: 12582914 Class: GLava Instance: GLava Title: GLava 
+Wid: 12582914 Class: GLava Instance: GLava Title: GLava 
+Wid: 98566145 Class: code-oss Instance: code-oss Title: Code - OSS 
+Wid: 106954761 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 60817551 Class: Steam Instance: Steam Title: Factorio - Steam 
+Wid: 109051906 Class: factorio Instance: factorio Title:  
+Wid: 60817561 Class: Steam Instance: Steam Title: Factorio - Steam 
+Wid: 109051906 Class: factorio Instance: factorio Title:  
+Wid: 117440521 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 60817565 Class: Steam Instance: Steam Title: Factorio - Steam 
+Wid: 109051906 Class: factorio Instance: factorio Title:  
+Wid: 60817569 Class: Steam Instance: Steam Title: Steam - Shutdown 
+Wid: 60817416 Class: Steam Instance: Steam Title: Steam 
+Wid: 60817441 Class: Steam Instance: Steam Title: Steam 
+Wid: 60817521 Class: Steam Instance: Steam Title: Factorio - Steam 
+Wid: 75497474 Class: factorio Instance: factorio Title:  
+Wid: 18874370 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 20971522 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 25165831 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 33554433 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 62914576 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 67108866 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 67108872 Class: Steam Instance: Steam Title: Steam 
+Wid: 67108897 Class: Steam Instance: Steam Title: Steam 
+Wid: 62914636 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 62914828 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 62920649 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 62923422 Class: Firefox Instance: Dialog Title: Opening structure-and-dynamics-course-notes-2018-43643.pdf 
+Wid: 111149065 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 111149065 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 62923464 Class: Firefox Instance: Dialog Title: Opening band-parta-44937.pdf 
+Wid: 62923483 Class: Firefox Instance: Dialog Title: Opening band-partb-44938.pdf 
+Wid: 62923506 Class: Firefox Instance: Dialog Title: Opening band-partc-44939.pdf 
+Wid: 62923529 Class: Firefox Instance: Dialog Title: Opening opticalpropertiesofsolids-handout-ht2019-44048.pdf 
+Wid: 62923552 Class: Firefox Instance: Dialog Title: Opening magnetismlecturenotestt19-44914.pdf 
+Wid: 62923575 Class: Firefox Instance: Dialog Title: Opening cmpsc-problems-2019-45000.pdf 
+Wid: 62923598 Class: Firefox Instance: Dialog Title: Opening 2018-19 C2 optics lecture notes - Complete.pdf 
+Wid: 62923629 Class: Firefox Instance: Dialog Title: Opening NoneqStatPhys-I-MT.pdf 
+Wid: 62923672 Class: Firefox Instance: Dialog Title: Opening V&Mlecturenotes.pdf 
+Wid: 62923695 Class: Firefox Instance: Dialog Title: Opening ODELectureNotes.pdf 
+Wid: 62923718 Class: Firefox Instance: Dialog Title: Opening complex_ODEs_notes.pdf 
+Wid: 62923749 Class: Firefox Instance: Dialog Title: Opening all_lectures_handout.pdf 
+Wid: 62923776 Class: Firefox Instance: Dialog Title: Opening EM_LectureNotes.pdf 
+Wid: 62923799 Class: Firefox Instance: Dialog Title: Opening vectorcalculus2018-42414.pdf 
+Wid: 62923830 Class: Firefox Instance: Dialog Title: Opening NotesLectures1-7.pdf 
+Wid: 62923853 Class: Firefox Instance: Dialog Title: Opening notes.pdf 
+Wid: 62923876 Class: Firefox Instance: Dialog Title: Opening QM2018.pdf 
+Wid: 62923899 Class: Firefox Instance: Dialog Title: Opening mmlecturenotes.pdf 
+Wid: 62923922 Class: Firefox Instance: Dialog Title: Opening mm.pdf 
+Wid: 62923953 Class: Firefox Instance: Dialog Title: Opening A3FurtherQuantumMechanics.zip 
+Wid: 62923984 Class: Firefox Instance: Dialog Title: Opening b2-lectures-2018.pdf 
+Wid: 62924007 Class: Firefox Instance: Dialog Title: Opening AtomicNotes_PE.pdf 
+Wid: 62924030 Class: Firefox Instance: Dialog Title: Opening QuantumNotes.pdf 
+Wid: 62924053 Class: Firefox Instance: Dialog Title: Opening B3_Lasers_Notes2017.pdf 
+Wid: 62924084 Class: Firefox Instance: Dialog Title: Opening HT19.pdf 
+Wid: 62924107 Class: Firefox Instance: Dialog Title: Opening LectureNotes2012.pdf 
+Wid: 115343367 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: Loading… 
+Wid: 115366669 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 62924171 Class: Firefox Instance: firefox Title: Print 
+Wid: 62925734 Class: Firefox Instance: Dialog Title: Opening A11046W1_C3_2017.pdf 
+Wid: 62925753 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 20971522 Class: Polybar Instance: polybar Title: polybar-left-top_HDMI-0 
+Wid: 18874370 Class: Polybar Instance: polybar Title: polybar-right-top_DVI-I-1 
+Wid: 25165831 Class: Pavucontrol Instance: pavucontrol Title: Volume Control 
+Wid: 33554433 Class:  Instance:  Title: Spotify 
+^ Checking Blank Class...
+^ Spotify
+Wid: 41943041 Class: discord Instance: discord Title: Discord Updater 
+Wid: 62914576 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 41943046 Class: discord Instance: discord Title: Activity - Discord 
+Wid: 69206018 Class:  Instance:  Title: Steam 
+^ Checking Blank Class...
+Wid: 69206024 Class: Steam Instance: Steam Title: Steam 
+Wid: 69206049 Class: Steam Instance: Steam Title: Steam 
+Wid: 69206129 Class: Steam Instance: Steam Title: Steam - News (0tem0f 0talWid: 62914634 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 111149063 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: Loading… 
+Wid: 111155219 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: Loading… 
+Wid: 111173105 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111181724 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111183282 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111185344 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111187199 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111212632 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: Select Application 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 115343363 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 117440515 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246215 Class: File-roller Instance: file-roller Title: Archive Manager 
+Wid: 111296895 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111329776 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title:  
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 117440515 Class: Zathura Instance: zathura Title: zathura 
+Wid: 111336000 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111338151 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 117440515 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 113246211 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 111384639 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 111421986 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111431071 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 111437254 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 98566147 Class: Zathura Instance: zathura Title: zathura 
+Wid: 62914788 Class: Firefox Instance: Dialog Title: Opening 2018-19 C2 lasers lecture notes.pdf 
+Wid: 62914807 Class: Firefox Instance: Dialog Title: Opening Lec1_C2_QO.pdf 
+Wid: 62914830 Class: Firefox Instance: Dialog Title: Opening Lec2_C2_QO.pdf 
+Wid: 62914853 Class: Firefox Instance: Dialog Title: Opening Lec3_C2_QO.pdf 
+Wid: 62914876 Class: Firefox Instance: Dialog Title: Opening Lec4_C2_QO.pdf 
+Wid: 62914899 Class: Firefox Instance: Dialog Title: Opening Lec5_C2_QO.pdf 
+Wid: 62914930 Class: Firefox Instance: Dialog Title: Opening Lec6_C2_QO.pdf 
+Wid: 111528676 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: New Folder 
+Wid: 98566153 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 115343369 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537690 Class: Gpick Instance: gpick Title: New palette - Gpick 
+Wid: 98566153 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 115343369 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 98566153 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 115343369 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 113246217 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537667 Class: Gimp-2.10 Instance: gimp-2.10 Title: GIMP Startup 
+Wid: 119537843 Class: Gimp-2.10 Instance: gimp-2.10 Title: GNU Image Manipulation Program 
+Wid: 119541738 Class: Gimp-2.10 Instance: gimp-2.10 Title: Set Image Canvas Size 
+Wid: 119543024 Class: Gimp-2.10 Instance: gimp-2.10 Title: New Layer 
+Wid: 119580617 Class: Gimp-2.10 Instance: gimp-2.10 Title: Scale Layer 
+Wid: 119608308 Class: Gimp-2.10 Instance: gimp-2.10 Title: New Layer 
+Wid: 119939991 Class: Gimp-2.10 Instance: gimp-2.10 Title: Set Image Canvas Size 
+Wid: 119946342 Class: Gimp-2.10 Instance: gimp-2.10 Title: New Layer 
+Wid: 120544259 Class: Gimp-2.10 Instance: gimp-2.10 Title: New Layer 
+Wid: 120627657 Class: Gimp-2.10 Instance: gimp-2.10 Title: Export Image 
+Wid: 121634819 Class: Gimp-2.10 Instance: file-png Title: Export Image as PNG 
+Wid: 111571142 Class: Org.gnome.Nautilus Instance: org.gnome.Nautilus Title: Loading… 
+Wid: 121634817 Class: feh Instance: feh Title: feh [696 of 698] - /home/kylie/Pictures/export/Timeline.png 
+Wid: 62915009 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 120641039 Class: Gimp-2.10 Instance: gimp-2.10 Title: Create a New Image 
+Wid: 120904077 Class: Gimp-2.10 Instance: gimp-2.10 Title: Export Image 
+Wid: 121634819 Class: Gimp-2.10 Instance: file-png Title: Export Image as PNG 
+Wid: 62917266 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 120909615 Class: Gimp-2.10 Instance: gimp-2.10 Title: Quit GIMP 
+Wid: 62921592 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 62927558 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 62930758 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 69206145 Class: Steam Instance: Steam Title: TerraTech - event started 
+Wid: 62933027 Class: Firefox Instance: Navigator Title: Mozilla Firefox 
+Wid: 62933052 Class: Firefox Instance: firefox Title: File Upload 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 121634825 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 62937430 Class: Firefox Instance: Dialog Title:  
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 121634825 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 121634825 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 123731977 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 127926282 Class: Gnome-terminal Instance: gnome-terminal-server Title: Terminal 
+Wid: 127926515 Class: Gnome-terminal Instance: gnome-terminal-server Title: Preferences – Profile “Unnamed” 
+Wid: 127980621 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Terminal Background Colour 
+Wid: 128014983 Class: Gnome-terminal Instance: gnome-terminal-server Title: Preferences – Profile “Unnamed” 
+Wid: 128080454 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Terminal Text Colour 
+Wid: 128095093 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Terminal Background Colour 
+Wid: 128080454 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Terminal Text Colour 
+Wid: 128165771 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 1 
+Wid: 128165771 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 1 
+Wid: 128228178 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 9 
+Wid: 128228178 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 9 
+Wid: 128288041 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 2 
+Wid: 128288041 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 2 
+Wid: 128329981 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 3 
+Wid: 128288041 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 2 
+Wid: 128386908 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 11 
+Wid: 128408217 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 4 
+Wid: 128428189 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 12 
+Wid: 128454850 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 5 
+Wid: 128477770 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 13 
+Wid: 128506651 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 6 
+Wid: 128525867 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 14 
+Wid: 128550246 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 0 
+Wid: 128579097 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 8 
+Wid: 128579097 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 8 
+Wid: 128550246 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 0 
+Wid: 128642628 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 7 
+Wid: 128663953 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose Palette Colour 15 
+Wid: 128750306 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose A Terminal Font 
+Wid: 128759947 Class: Gnome-terminal Instance: gnome-terminal-server Title: Preferences – Profile “Flamboyant” 
+Wid: 128764325 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose A Terminal Font 
+Wid: 128764325 Class: Gnome-terminal Instance: gnome-terminal-server Title: Choose A Terminal Font 
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 123731977 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 123731971 Class: Termite Instance: termite Title:  
+Wid: 123731971 Class: Termite Instance: termite Title:  
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829129 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 125829123 Class: Termite Instance: termite Title:  
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 121634825 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 123731977 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
+Wid: 119537673 Class: URxvt Instance: urxvt Title: urxvt 
