@@ -56,8 +56,8 @@ font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = Siji:style=Regular
 
 modules-left = bspwm
-modules-center = 
-modules-right = date powermenu
+modules-center = player-mpris-tail 
+modules-right = speakers-text headphones-text temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -113,6 +113,18 @@ wm-restack = bspwm
 cursor-click = pointer
 cursor-scroll = ns-resize
 
+[module/headphones-text]
+type = custom/text
+content = 
+; "click-(left|middle|right)" will be executed using "/bin/sh -c $COMMAND"
+click-left = /home/orbita/bin/movesinks.sh 0
+
+[module/speakers-text]
+type = custom/text
+content = 
+; "click-(left|middle|right)" will be executed using "/bin/sh -c $COMMAND"
+click-left = /home/orbita/bin/movesinks.sh 2
+
 [module/xwindow]
 type = internal/xwindow
 label = %title:0:30:...%
@@ -161,6 +173,7 @@ ws-icon-11 = II-C;
 ws-icon-12 = II-D;
 ws-icon-13 = II-E;
 ws-icon-14 = Games;
+ws-icon-15 = Mail;
 
 ws-icon-default = 
 
@@ -430,11 +443,12 @@ animation-discharging-framerate = 750
 type = internal/temperature
 thermal-zone = 0
 warn-temperature = 60
+hwmon-path = /sys/devices/pci0000:00/0000:00:18.3/hwmon/hwmon0/temp1_input
 
 format = <ramp> <label>
-format-underline = #f50a4d
+# format-underline = 
 format-warn = <ramp> <label-warn>
-format-warn-underline = ${self.format-underline}
+format-warn-underline = #f50a4d
 
 label = %temperature-c%
 label-warn = %temperature-c%
@@ -486,12 +500,12 @@ interval = 600
 
 [module/player-mpris-tail]
 type = custom/script
-exec = ~/bin/polybar-scripts/player-mpris-tail/player-mpris-tail.py -f '{icon} {artist} - {title}' --icon-playing  --icon-paused  --icon-stopped  -b plasma-browser-integration
+exec = ~/bin/polybar-scripts/player-mpris-tail/player-mpris-tail.py -f '{icon} {artist} - {title}' --icon-playing  --icon-paused  --icon-stopped  -b firefox.*
 tail = true
 label = %output%
-click-left = ~/bin/polybar-scripts/player-mpris-tail/player-mpris-tail.py -b plasma-browser-integration  play-pause
-click-right = ~/bin/polybar-scripts/player-mpris-tail/player-mpris-tail.py -b plasma-browser-integration next
-click-middle = ~/bin/polybar-scripts/player-mpris-tail/player-mpris-tail.py -b plasma-browser-integration previous
+click-left = playerctl -p spotify play-pause
+click-right = playerctl -p spotify next
+click-middle = playerctl -p spotify previous
 
 [settings]
 screenchange-reload = true

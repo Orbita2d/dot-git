@@ -31,8 +31,8 @@ let g:NERDTreeNodeDelimiter = 'N'
 map <Leader>n :NERDTreeToggle<CR>
 map <Leader>t :NERDTreeFocus<CR>
       
-map <Leader><Left> :tabprevious<CR>
-map <Leader><Right> :tabnext<CR>
+map <M-Left> :tabprevious<CR>
+map <M-Right> :tabnext<CR>
 
 "+==========+
 "|  vimtex  |

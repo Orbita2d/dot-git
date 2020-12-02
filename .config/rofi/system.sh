@@ -1,11 +1,11 @@
 #! /bin/bash
 
 mainMenu () {
-  options="Lock Screen\nShutdown\nRestart\nScreenshot\nRecord Region\nKill Recording\nPlayer\nNetwork Manager"
+  options="Lock Screen\nShutdown\nRestart\nScreenshot\nRecord Region\nKill Recording\nPlayer\nNetwork Manager\nRandomise Background\nStart Loopback\nStop Loopback"
   menu=$(echo -e $options | rofi -dmenu -p "System")
   case "${menu}" in
     "Lock Screen")
-      light-locker-command -l ;;
+      dm-tool lock ;;
     "Shutdown")
       confirmDialogue
       if [[ $val -eq 1 ]]; then
@@ -31,6 +31,14 @@ mainMenu () {
       playerMenu ;;
     "Network Manager")
       networkmanager_dmenu;;
+    "Randomise Background")
+      if [ -d "$HOME/Pictures/Backgrounds" ]; then
+        feh --bg-fill $(find ~/Pictures/Backgrounds/shuffle -type f | shuf -n 1)
+      fi ;;
+    "Start Loopback")
+      loopback_video.sh ;;
+    "Stop Loopback")
+      loopback_video_kill.sh
     esac
 }
 

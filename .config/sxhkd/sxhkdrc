@@ -1,10 +1,14 @@
 #
 # wm independent hotkeys
 #
-
+super + l
+  dm-tool lock
 # terminal emulator
 super + Return
 	urxvt
+
+super + k
+  playerctl -a play-pause
 
 # program launcher
 super + a

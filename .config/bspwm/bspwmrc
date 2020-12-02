@@ -1,7 +1,9 @@
 #! /bin/sh
 
-bspc monitor HDMI-0 -d I-A I-B I-C I-D I-E Music Audio-A Audio-B Audio-C
-bspc monitor DVI-I-1 -d II-A II-B II-C II-D II-E Games
+#bspc monitor HDMI-0 -d I-A I-B I-C I-D I-E Music Audio-A Audio-B Audio-C
+#bspc monitor DVI-I-1 -d II-A II-B II-C II-D II-E Mail Games
+
+bspc monitor HDMI-0 -d I-A I-B I-C I-D I-E Music Audio-A Audio-B Audio-C Mail Games
 
 bspc config border_width         6
 bspc config window_gap          20

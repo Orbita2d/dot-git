@@ -11,7 +11,7 @@ fi
 $HOME/.screenlayout/defaultsetup.sh &
 
 if [ -d "$HOME/Pictures/Backgrounds" ]; then
- feh --bg-center $(find ~/Pictures/Backgrounds/shuffle -type f | shuf -n 1)
+ feh --bg-fill $(find ~/Pictures/Backgrounds/shuffle -type f | shuf -n 1)
 fi
 
 xsetroot -cursor_name "left_ptr"
@@ -24,13 +24,15 @@ xiccd &
 sxhkd &
 ssh-agent &
 compton &
-light-locker &
-polybar left-top &
-polybar right-top &
+#light-locker &
 pasystray &
 pavucontrol &
 nm-applet &
 spotify &
 steam &
 discord &
-
+thunderbird &
+gtk-launch apparmor-notify.desktop &
+sleep 3
+polybar left-top &
+polybar right-top &

@@ -5,7 +5,8 @@ class=$(echo ${2} | xargs)
 instance=$(echo ${3} | xargs)
 title=$(xtitle "$wid")
 
-logfile=$HOME/.config/bspwm/external_rules_logfile
+#logfile=$HOME/.config/bspwm/external_rules_logfile
+logfile=/dev/null
 
 printf "Wid: $wid Class: $class Instance: $instance Title: $title \n" >> $logfile
 
@@ -17,11 +18,13 @@ case "$class" in
   (Steam) echo desktop='Games'  follow=false border=false;;
   (discord) echo desktop='Audio-C';;
   (GLava) echo border=false;;
+  (Mail) echo desktop='Mail';;
+  (Thunderbird) echo desktop='Mail';;
   ('MATLAB'*) 
     printf "^ Matlab, checking title\n" >> $logfile
     case "$title" in
-      'MATLAB R'*) echo state=tiled;;
-      *) echo state=floating;;
+      'MATLAB R'*) echo state=tiled follow=false;;
+      *) echo state=floating follow=false;;
     esac;;
   ('')
     printf "^ Checking Blank Class...\n" >> $logfile
